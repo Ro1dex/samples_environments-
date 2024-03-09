@@ -1,2 +1,3 @@
-**Скриншот Prometheus** ![Prometheus](screenshots/prometheus.png)
-**Скриншот Telegraf**  ![Telegraf](screenshots/telegraf.png)
+**Скриншот** [Prometheus](screenshots/prometheus.png)
+
+**Скриншот**  [Telegraf](screenshots/telegraf.png)
